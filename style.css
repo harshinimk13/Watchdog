@@ -1,0 +1,15 @@
+body {
+  font-family: "Segoe UI", sans-serif;
+}
+h2 {
+  color: #00d1ff;
+}
+.table-success {
+  background-color: #1a4f1a !important;
+}
+.table-warning {
+  background-color: #665c00 !important;
+}
+.table-danger {
+  background-color: #641414 !important;
+}
